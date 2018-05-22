@@ -147,9 +147,9 @@ paginate_path: 'page:num'
 ```
 ---
 layout: post
-title: 'H2O theme for Jekyll'
+title: 'lsq2020 theme for Jekyll'
 subtitle: '或许是最漂亮的Jekyll主题'
-date: 2017-04-18
+date: 2018-05-22
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: jekyll 前端开发 设计
@@ -191,10 +191,10 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 ```
 # SNS settings 配置社交网站url
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/lsq2020'
+  juejin: '//juejin.im/user/57a6f43416512b006159b4cc'
+  instagram: '//www.instagram.com/steve'
+  github: '//github.com/lsq2020'
 ```
 
 sns属性可选参数：
@@ -369,7 +369,7 @@ postPatterns: 'circuitBoard'
 
 如果你喜欢折腾，想对模板的代码进行修改，需要使用命令 `npm install` 安装 `package.json` 中的依赖，然后 `gulp` 一下即可开始你的自定义之旅。
 
-在了解H2O主题的目录结构之前，确保你对[Jekyll目录结构](http://jekyll.com.cn/docs/structure/)有所了解。
+在了解lsq2020主题的目录结构之前，确保你对[Jekyll目录结构](http://jekyll.com.cn/docs/structure/)有所了解。
 
 ```		
 	.
@@ -441,13 +441,6 @@ Any types of contribution are welcome. Thanks.
 
 接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的 ```Pull Request```
 
-#### 感谢参与代码贡献的伙伴
-
-- [Ray-Eldath](https://github.com/Ray-Eldath)
-- [sctop](https://github.com/sctop)
-- [bananaappletw](https://github.com/bananaappletw)
-- [moycat](https://github.com/moycat)
-
 ### License 许可证
 
-Jekyll-Theme-H2O is licensed under [MIT](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE).
+lsq2020 is licensed under [MIT](https://github.com/lsq2020/lsq2020.github.io).

@@ -53,7 +53,7 @@ $(document).ready(function(){
                     'box-shadow': 'none'
                 });
                 logo.css({
-                    'background': 'url(/assets/icons/logo.svg) no-repeat center',
+                    'background': 'url(/assets/icons/logo.png) no-repeat center',
                     'background-size': '100% 100%'
                 });
                 navText.css('color', '#fff');
