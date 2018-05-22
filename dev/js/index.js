@@ -41,7 +41,7 @@ $(document).ready(function(){
                     'box-shadow': '0 1px 12px rgba(0, 0, 0, .08)'
                 });
                 logo.css({
-                    'background': 'url(/assets/icons/logo_' + themeStyle + '.svg) no-repeat center',
+                    'background': 'url(/assets/icons/logo_' + themeStyle + '.png) no-repeat center',
                     'background-size': '100% 100%'
                 });
                 navText.css('color', '#666');
