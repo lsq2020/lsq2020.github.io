@@ -23,4 +23,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://www.56.com/w97/play_album-aid-14485637_vid-MTUwNjM0NTI5.html" frameborder="0"></iframe>
+<iframe type="text/html" width="100%" height="385" src="https://www.imooc.com/video/17241" frameborder="0"></iframe>
