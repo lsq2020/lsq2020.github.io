@@ -10,7 +10,7 @@ tags: mysql 开发
 ## mysql获取汉字首字母
 
 
-```
+
 DELIMITER $$
 
 USE `test`$$
@@ -46,4 +46,4 @@ RETURN tmp_char;#返回汉字拼音首字符
 END$$
 
 DELIMITER ;
-```
+
