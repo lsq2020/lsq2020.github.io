@@ -1,4 +1,15 @@
 $(document).ready(function(){
+
+    $.getJSON("/assets/data/motto.json", function(motto){
+        var len = motto.length;
+        var random = Math.floor(Math.random()*len);
+        var homeTitle = motto[random]['homeTitle'];
+        var description = motto[random]['description'];
+
+        $('#homeTitle').text(homeTitle);
+        $('#description').text(description);
+    });
+
     var nav = $('.g-nav');
 
     /**
