@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5f9406-ba97-49d5-a753-3fbd90a805bc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -111,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="624">
-              <caret line="24" column="149" lean-forward="false" selection-start-line="24" selection-start-column="149" selection-end-line="24" selection-end-column="149" />
+              <caret line="24" column="66" lean-forward="false" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -271,12 +270,12 @@
       <workItem from="1527081025660" duration="7296000" />
       <workItem from="1527168552317" duration="4873000" />
       <workItem from="1527254504024" duration="14000" />
-      <workItem from="1527689925375" duration="45000" />
+      <workItem from="1527689925375" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19356000" />
+    <option name="totallyTimeSpent" value="19848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -639,7 +638,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
-          <caret line="24" column="149" lean-forward="false" selection-start-line="24" selection-start-column="149" selection-end-line="24" selection-end-column="149" />
+          <caret line="24" column="66" lean-forward="false" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
           <folding />
         </state>
       </provider>
