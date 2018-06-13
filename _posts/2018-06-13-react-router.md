@@ -144,7 +144,7 @@ React Router去匹配的只是'/my-projects/one'这一部分。
 
 通过`<Route>`渲染的元素会被传入一些参数。分别是`match`对象，当前`location`对象[注6]以及`history`对象（由`router`创建）[注7]。
 
-### &lt;<Main>&gt;
+### &lt;Main&gt;
 
 现在我们清楚了根路由的结构，我们需要实际渲染我们的路由。
 对于这个应用，我们将会在`<Main>`组件中渲染`<Switch>`与`<Route>`，

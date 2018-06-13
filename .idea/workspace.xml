@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5f9406-ba97-49d5-a753-3fbd90a805bc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-06-13-react-router.md" afterPath="$PROJECT_DIR$/_posts/2018-06-13-react-router.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,17 +16,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-06-13-react-router.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-06-13-react-router.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-13-react-router.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="352" column="14" lean-forward="false" selection-start-line="352" selection-start-column="14" selection-end-line="352" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="146" column="8" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
@@ -121,7 +120,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>H2O Theme For Jekyll</find>
       <find>.g-header .g-logo</find>
       <find>gulp-sass</find>
       <find>vinyl-fs</find>
@@ -149,8 +147,9 @@
       <find>.highlight</find>
       <find>gt</find>
       <find>lt</find>
-      <find>夜间</find>
       <find>nightMode</find>
+      <find>夜间</find>
+      <find>main</find>
     </findStrings>
     <replaceStrings>
       <replace>刘帅旗</replace>
@@ -185,8 +184,8 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/assets/data/motto.json" />
         <option value="$PROJECT_DIR$/dev/sass/common.scss" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-13-react-router.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-13-react-router.md" />
       </list>
     </option>
   </component>
@@ -313,12 +312,12 @@
       <workItem from="1527254504024" duration="14000" />
       <workItem from="1527689925375" duration="12330000" />
       <workItem from="1527909729523" duration="29000" />
-      <workItem from="1528896120152" duration="5574000" />
+      <workItem from="1528896120152" duration="5747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37244000" />
+    <option name="totallyTimeSpent" value="37417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -679,14 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-13-react-router.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="352" column="14" lean-forward="false" selection-start-line="352" selection-start-column="14" selection-end-line="352" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -699,6 +690,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-13-react-router.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="146" column="8" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
           <folding />
         </state>
       </provider>
