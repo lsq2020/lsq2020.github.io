@@ -544,9 +544,9 @@
     width: $post-content-w;
     box-sizing: border-box;
     padding: 0 0 32px;
-    .highlight {
+    pre.highlight {
         margin: 0 0 16px;
-        overflow: scroll;
+        overflow: auto;
     }
     img {
         transition: .3s;
