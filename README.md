@@ -1,26 +1,10 @@
-## jekyll-theme-H2O
+## liushuaiqi.top
 
 基于Jekyll的博客主题模板，简洁轻量。
 
-另外，还有此主题的[Ghost版本](https://github.com/eastpiger/ghost-theme-H2O) by [eastpiger](https://github.com/eastpiger)
-
 ### Preview
 
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
-
-![](screenshot/jekyll-theme-h2o-realhome.jpg)
-
-![](screenshot/jekyll-theme-h2o-realm.png)
-
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
-
-If you like this theme or using it, please give a ⭐️ for motivation ;)
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](screenshot/1494404591.png)
-
-Using your smartphone to scan the QR Code
+#### [在线预览 liushuaiqi.top →](https://blog.liushuaiqi.com/)
 
 ### Features 特性
 
@@ -60,15 +44,7 @@ Using your smartphone to scan the QR Code
 
 使用 ```gem install jekyll-paginate``` 或 ```sudo gem install jekyll-paginate``` 安装Jekyll的分页插件。
 
-> H2O主题基于Jekyll 3.2.1版本，不同版本之间可能存在部分差异，具体请参考[官方更新文档](https://jekyllrb.com/news/)
-
-点击右上角Fork按钮在你的Github上创建分支，或者```clone```到本地。
-
-``` git clone https://github.com/kaeyleo/jekyll-theme-H2O.git ```
-
-最后，在命令行输入 ```jekyll server``` 开启服务，就能在本地预览主题了。
-
-如果需要部署到线上环境，请参照配置文档的 **开始** 章节进行操作。
+> 该主题基于Jekyll 3.2.1版本，不同版本之间可能存在部分差异，具体参考[官方更新文档](https://jekyllrb.com/news/)
 
 ### Document 配置文档
 
@@ -129,8 +105,8 @@ You can easily get started by modifying _config.yml
 # Site settings
 title: '刘帅旗的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '刘帅旗, 刘帅旗的独立博客, 前端, 设计' # 网站关键词
-url: 'http://liaokeyu.com' # 站点url
+keyword: '刘帅旗, 刘帅旗的独立博客, 前端, 全栈' # 网站关键词
+url: 'http://blog.liushuaiqi.top' # 站点url
 baseurl: ''
 
 # Build settings
@@ -147,11 +123,11 @@ paginate_path: 'page:num'
 ```
 ---
 layout: post
-title: 'lsq2020 theme for Jekyll'
+title: 'liushuaqi.top theme for Jekyll'
 subtitle: '或许是最漂亮的Jekyll主题'
 date: 2018-05-22
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'http://liushuaiqi.top/assets/img/balabalalba.jpg'
 tags: jekyll 前端开发 设计
 ---
 ```
@@ -177,8 +153,6 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 这样做是为了在Jekyll运行时排除某些文件被复制到运行文件`_site`里去。
 
 #### 侧边栏
-
-![](screenshot/jekyll-theme-h2o-sideBar.png)
 
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。
 
@@ -247,8 +221,6 @@ Tags配置说明：
 
 #### 文章搜索
 
-![](screenshot/jekyll-theme-h2o-search.png)
-
 基于Jekyll服务器生成文章索引文件 `search.json` 为博客提供搜索服务。输入文章标题或与文章标签相关的关键字即可。
 
 搜索功能默认是开启的，以卡片的样式显示在侧边栏底部。如需关闭请将配置文件 `_config.yml` 中 `search ` 属性的值改为 `false` 。
@@ -314,8 +286,6 @@ nightMode: true
 
 #### 主题皮肤
 
-![](screenshot/jekyll-theme-h2o-themecolor.jpg)
-
 支持两种主题颜色蓝色（默认）和粉色
 
 主要效果体现在首页博客封面、顶部导航栏的logo以及鼠标悬停时文字显示的颜色效果。
@@ -369,7 +339,7 @@ postPatterns: 'circuitBoard'
 
 如果你喜欢折腾，想对模板的代码进行修改，需要使用命令 `npm install` 安装 `package.json` 中的依赖，然后 `gulp` 一下即可开始你的自定义之旅。
 
-在了解lsq2020主题的目录结构之前，确保你对[Jekyll目录结构](http://jekyll.com.cn/docs/structure/)有所了解。
+在了解liushuaiqi.top主题的目录结构之前，确保你对[Jekyll目录结构](http://jekyll.com.cn/docs/structure/)有所了解。
 
 ```		
 	.
@@ -443,4 +413,4 @@ Any types of contribution are welcome. Thanks.
 
 ### License 许可证
 
-lsq2020 is licensed under [MIT](https://github.com/lsq2020/lsq2020.github.io).
+blog.liushuaiqi.top is licensed under [MIT](https://github.com/lsq2020/lsq2020.github.io).

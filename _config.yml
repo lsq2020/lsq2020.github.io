@@ -14,7 +14,7 @@ nav:
 
 # Footer
 footer:
-  since: 2018
+  since: 2016
 
 # Author 配置博主信息
 author: '刘帅旗'
@@ -49,9 +49,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lsq2020'
-  juejin: '//juejin.im/user/57a6f434165abd126159b4cc'
-  instagram: '//www.instagram.com/stevelsdcn'
+  email: '//lsq2020@foxmail.com'
+  instagram: '//liushuaiqi.top'
   github: '//github.com/lsq2020'
 
 # Tags 设置标签
