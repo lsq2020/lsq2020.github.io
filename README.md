@@ -405,12 +405,6 @@ social-share: true # 开启或者关闭分享功能
 social-share-items: ['wechat', 'weibo', 'douban','twitter']
 ```
 
-### Contribution 贡献
-
-Any types of contribution are welcome. Thanks.
-
-接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的 ```Pull Request```
-
 ### License 许可证
 
 blog.liushuaiqi.top is licensed under [MIT](https://github.com/lsq2020/lsq2020.github.io).
