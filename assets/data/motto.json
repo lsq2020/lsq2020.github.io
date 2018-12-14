@@ -1,8 +1,10 @@
 [
     {
-        "top": true,
-        "homeTitle": "爱我中华！",
-        "description": "支持华为！"
+
+        "top": false,
+        "useful": true,
+        "homeTitle": "支持华为！爱我中华！",
+        "description": ""
     },
     {
         "homeTitle": "Hello World!",
