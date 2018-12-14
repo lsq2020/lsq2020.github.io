@@ -1,5 +1,10 @@
 [
     {
+        "top": true,
+        "homeTitle": "爱我中华！",
+        "description": "支持华为！"
+    },
+    {
         "homeTitle": "Hello World!",
         "description": ""
     },

@@ -1,6 +1,14 @@
 $(document).ready(function(){
 
     $.getJSON("/assets/data/motto.json", function(motto){
+
+        if(motto[0]['top']){
+            var homeTitle = motto[0]['homeTitle'];
+            var description = motto[0]['description'];
+            $('#homeTitle').text(homeTitle);
+            $('#description').text(description);
+            return;
+        }
         var len = motto.length;
         var random = Math.floor(Math.random()*len);
         var homeTitle = motto[random]['homeTitle'];
