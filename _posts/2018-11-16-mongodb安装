@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'mongodb安装'
+date: 2018-11-16
+categories: 技术
+tags: mongodb 开发
+---
+
+## window版本
+下载地址：http://dl.mongodb.org/dl/win32/x86_64
+
+## linux版本
+下载地址：http://dl.mongodb.org/dl/linux/x86_64
+
