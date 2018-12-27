@@ -1,7 +1,7 @@
 $(document).ready(function(){
-
-    $.getJSON("/assets/data/motto.json", function(motto){
-
+    var nowHours = new Date().getHours();
+    $.getJSON('/assets/data/' + nowHours > 14 ? poetry : motto + '.json', function(motto){
+        if(!motto.length) return;
         if(motto[0]['top']){
             var homeTitle = motto[0]['homeTitle'];
             var description = motto[0]['description'];
