@@ -1,6 +1,5 @@
 $(document).ready(function(){
     var nowHours = new Date().getHours();
-    console.log('/assets/data/' + (nowHours > 14 ? 'poetry' : 'motto') + '.json', '============');
     $.getJSON('/assets/data/' + (nowHours > 14 ? 'poetry' : 'motto') + '.json', function(motto){
         if(!motto.length) return;
         if(motto[0]['top']){
