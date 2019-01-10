@@ -76,3 +76,5 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+theme: jekyll-theme-cayman
